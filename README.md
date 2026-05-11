@@ -1,6 +1,6 @@
 # 👋 Fernand Labarre
 
-Développeur Full-Stack spécialisé dans les outils métiers, l’automatisation et l’intelligence artificielle.
+Développeur Full-Stack spécialisé dans les outils métiers, l’automatisation et les solutions basées sur l’IA.
 
 Je développe principalement des applications web destinées à améliorer l’organisation, la collaboration et les processus opérationnels.
 J’accorde une attention particulière à l’expérience utilisateur, à la simplicité des outils et à leur utilité concrète sur le terrain.
