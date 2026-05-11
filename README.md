@@ -20,13 +20,19 @@ J’accorde une attention particulière à l’expérience utilisateur, à la si
 
 ## 🛠️ Technologies & environnement de travail
 
-### Développement web
+### Frontend
 
-* React / TypeScript
-* Node.js / Express
-* Python
+* React
+* TypeScript
 * HTML / CSS / JavaScript
 * Material UI / Bootstrap / TailwindCSS
+
+### Backend
+
+* Node.js / Express
+* Python
+* PostgreSQL
+* Sequelize
 
 ### CMS & outils digitaux
 
@@ -35,21 +41,20 @@ J’accorde une attention particulière à l’expérience utilisateur, à la si
 * Notion
 * Odoo (CRM / ERP)
 
-### Base de données & services
+### Outils & services
 
-* PostgreSQL
-* APIs & automatisations
 * OpenAI API
 * Git / GitHub
+* APIs & automatisations
 
 ### Expérience complémentaire
 
 * Gestion de projets digitaux
 * Organisation et optimisation de workflows
 * Gestion des coûts et suivi opérationnel
-* UX/UI et expérience utilisateur
 * Collaboration client & accompagnement utilisateur
 
+---
 
 ## 📌 Projets
 
@@ -76,7 +81,7 @@ Application web d’aide à la recherche d’emploi intégrant des fonctionnalit
 Fonctionnalités :
 
 * suivi des candidatures,
-* génération de contenus assistée par IA (lettre de motivation, CV en cours de développemen...),
+* génération de contenus assistée par IA,
 * centralisation des offres,
 * automatisation de certaines démarches.
 
@@ -88,5 +93,5 @@ Fonctionnalités :
 
 * 🌐 https://teammap.fr
 * 🌐 https://candideo.pro
-* 💼 LinkedIn : [Fernand Labarre](https://www.linkedin.com/in/fernand-labarre/)
+* 💼 LinkedIn : Fernand Labarre
 * 📧 [labarre.f24@gmail.com](mailto:labarre.f24@gmail.com)
