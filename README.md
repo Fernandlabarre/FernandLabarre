@@ -88,5 +88,5 @@ Fonctionnalités :
 
 * 🌐 https://teammap.fr
 * 🌐 https://candideo.pro
-* 💼 LinkedIn : Fernand Labarre(https://www.linkedin.com/in/fernand-labarre/)
+* 💼 LinkedIn : [Fernand Labarre](https://www.linkedin.com/in/fernand-labarre/)
 * 📧 [labarre.f24@gmail.com](mailto:labarre.f24@gmail.com)
