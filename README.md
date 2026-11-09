@@ -1,97 +1,25 @@
-# 👋 Fernand Labarre
+# Fernand Labarre
 
-Développeur Full-Stack spécialisé dans les outils métiers, l’automatisation et les solutions basées sur l’IA.
+**Développeur full-stack · Applications web métier**
 
-Je développe principalement des applications web destinées à améliorer l’organisation, la collaboration et les processus opérationnels.
-J’accorde une attention particulière à l’expérience utilisateur, à la simplicité des outils et à leur utilité concrète sur le terrain.
+Je développe des applications pour préparer des visites de terrain, suivre des candidatures et organiser des interventions sur mobile. Mes projets combinent interfaces React et TypeScript, API et bases de données.
 
----
+## Projets
 
-## 🚀 Domaines de travail
+### TeamMap · Cartographie collaborative
 
-* Développement Full-Stack
-* Intelligence artificielle & automatisation
-* Gestion de projets digitaux
-* Outils collaboratifs & organisation digitale
-* UX/UI et expérience utilisateur
-* Intégration d’API métier
+Les équipes dessinent des zones, ajoutent des repères et rattachent leurs observations à une fiche projet. L’architecture sépare le noyau cartographique des fonctions propres au photovoltaïque, activables selon les besoins de l’équipe.
 
----
+[Voir le produit et ses écrans sur ordinateur et mobile](https://teammap.fr/)
 
-## 🛠️ Technologies & environnement de travail
+### Candidéo · Suivi de candidatures
 
-### Frontend
+Un outil pour importer une offre, suivre la candidature et retrouver les prochaines relances. L’interface React et TypeScript s’appuie sur une API FastAPI.
 
-* React
-* TypeScript
-* HTML / CSS / JavaScript
-* Material UI / Bootstrap / TailwindCSS
+[Voir les captures de l’interface](https://candideo.pro/)
 
-### Backend
+### Planning d’interventions · Application web mobile
 
-* Node.js / Express
-* Python
-* PostgreSQL
-* Sequelize
+Un projet issu d’un besoin de terrain : retrouver ses consignes, suivre ses passages et distinguer les horaires prévus des heures réalisées. Le parcours prévoit la confirmation d’un passage hors connexion et sa synchronisation au retour du réseau.
 
-### CMS & outils digitaux
-
-* WordPress
-* Shopify
-* Notion
-* Odoo (CRM / ERP)
-
-### Outils & services
-
-* OpenAI API
-* Git / GitHub
-* APIs & automatisations
-
-### Expérience complémentaire
-
-* Gestion de projets digitaux
-* Organisation et optimisation de workflows
-* Gestion des coûts et suivi opérationnel
-* Collaboration client & accompagnement utilisateur
-
----
-
-## 📌 Projets
-
-### 🌍 TeamMap
-
-Plateforme collaborative dédiée au pilotage de projets photovoltaïques.
-
-Fonctionnalités principales :
-
-* gestion de projets et cartes interactives,
-* collaboration d’équipe,
-* photos et validations terrain,
-* intégration d’API métier (PVGIS, Enedis, data.gouv.fr),
-* centralisation des données opérationnelles.
-
-🔗 https://teammap.fr
-
----
-
-### 📄 Candidéo
-
-Application web d’aide à la recherche d’emploi intégrant des fonctionnalités basées sur l’intelligence artificielle.
-
-Fonctionnalités :
-
-* suivi des candidatures,
-* génération de contenus assistée par IA,
-* centralisation des offres,
-* automatisation de certaines démarches.
-
-🔗 https://candideo.pro
-
----
-
-## 📫 Contact
-
-* 🌐 https://teammap.fr
-* 🌐 https://candideo.pro
-* 💼 LinkedIn : Fernand Labarre
-* 📧 [labarre.f24@gmail.com](mailto:labarre.f24@gmail.com)
+Dans un planning dense, la colonne du jour sélectionné se place dans la zone visible. Un test navigateur couvre aussi le retour après un filtre vide, pour préserver le défilement de l’utilisateur.
